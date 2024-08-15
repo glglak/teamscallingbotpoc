@@ -1,0 +1,64 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.14/MicrosoftTeams.schema.json",
+  "version": "1.0.3",
+  "manifestVersion": "1.14",
+  "id": "78bce366-1a9c-4614-9b39-9e4f08398773",
+  "packageName": "com.acs.sample",
+  "developer": {
+    "name": "Contoso",
+    "websiteUrl": "https://callingbotsample20240813175055.azurewebsites.net/",
+    "privacyUrl": "https://teams.microsoft.com",
+    "termsOfUseUrl": "https://teams.microsoft.com"
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "name": {
+    "short": "Calling bot",
+    "full": "Calling bot"
+  },
+  "description": {
+    "short": "Short description bot",
+    "full": "long description bot"
+  },
+  "accentColor": "#FFFFFF",
+  "bots": [
+    {
+      "botId": "78bce366-1a9c-4614-9b39-9e4f08398773",
+      "scopes": [
+        "personal",
+        "team",
+        "groupchat"
+      ],
+      "commandLists": [
+        {
+          "commands": [
+            {
+              "title": "welcome",
+              "description": "Resend welcome card of this Bot"
+            }
+          ],
+          "scopes": [
+            "personal"
+          ]
+        }
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false,
+      "supportsCalling": true,
+      "supportsVideo": true
+    }
+  ],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "https://callingbotsample20240813175055.azurewebsites.net/"
+  ],
+  "webApplicationInfo": {
+    "id": "78bce366-1a9c-4614-9b39-9e4f08398773",
+    "resource": "https://RscString"
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\karim.deraz\source\repos\Microsoft-Teams-Samples\samples\bot-calling-meeting\csharp\Source\CallingBotSample\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-08-13T15:04:06.9861158Z;True|2024-08-13T16:58:29.0132011+03:00;True|2024-08-13T16:55:42.9698369+03:00;True|2024-08-13T16:49:47.1142844+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

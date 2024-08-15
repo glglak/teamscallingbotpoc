@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "UXpisjW7WV0WV9ykiPPH6D7UH8a0W3Z59rj4G4NtEDM=",
+  "Source": "CallingBotSample",
+  "BasePath": "_content/CallingBotSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CallingBotSample\\wwwroot",
+      "Source": "CallingBotSample",
+      "ContentRoot": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\",
+      "BasePath": "_content/CallingBotSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\audio\\please-record-your-message.wav",
+      "SourceId": "CallingBotSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\",
+      "BasePath": "_content/CallingBotSample",
+      "RelativePath": "audio/please-record-your-message.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\please-record-your-message.wav"
+    },
+    {
+      "Identity": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\audio\\speech.wav",
+      "SourceId": "CallingBotSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\",
+      "BasePath": "_content/CallingBotSample",
+      "RelativePath": "audio/speech.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\speech.wav"
+    },
+    {
+      "Identity": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\default.htm",
+      "SourceId": "CallingBotSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\",
+      "BasePath": "_content/CallingBotSample",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

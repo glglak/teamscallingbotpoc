@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\audio\\please-record-your-message.wav",
+      "PackagePath": "staticwebassets\\audio\\please-record-your-message.wav"
+    },
+    {
+      "Id": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\audio\\speech.wav",
+      "PackagePath": "staticwebassets\\audio\\speech.wav"
+    },
+    {
+      "Id": "C:\\Users\\karim.deraz\\source\\repos\\Microsoft-Teams-Samples\\samples\\bot-calling-meeting\\csharp\\Source\\CallingBotSample\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CallingBotSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CallingBotSample.props",
+      "PackagePath": "build\\CallingBotSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CallingBotSample.props",
+      "PackagePath": "buildMultiTargeting\\CallingBotSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CallingBotSample.props",
+      "PackagePath": "buildTransitive\\CallingBotSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
